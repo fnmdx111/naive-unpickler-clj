@@ -1,4 +1,4 @@
-Naive Unpickler for Clojure
+Naive Unpickler for Clojure 0.0.1
 ===========================
 
 Naive unpickler for clojure, note that some features aren't implemented for now.
@@ -25,8 +25,9 @@ Data types are mapped in this way
 | `list` `tuple`  | `vector`   |
 | `dict`          | `hash-map` |
 
+license: *GPL v3*
 
-contact me: chsc4698@gmail.com
+feel free to contact me: chsc4698@gmail.com
 
 p.s. nrepl is a great tool for clojure developing, many thanks to the contributors to this project
 
